@@ -156,7 +156,17 @@ Notice the ``try``/``catch`` pair? That is to help us with our data. Running the
 Unable to add Cannot convert value "@{Name=Buchanan, Elmer; HireDate=13/32/2011; EmployeeId=9352; Rate=35.33}" to type "employee". Error: "Cannot convert value "13/32/2011" to type "System.DateTime". Error: "String was not recognized as a valid DateTime.""
 ```
 
-Elmer Buchanan is the final entry in our CSV. His hire date is 13/32/2011. That is an invalid date format. Who is our last employee now?
+Elmer Buchanan is the final entry in our CSV. His hire date is 13/32/2011. That is an invalid date format. His data is in ``$ImportedCsv``:
+
+```
+$ImportedCsv[-1]
+
+Name            HireDate   EmployeeId Rate
+----            --------   ---------- ----
+Buchanan, Elmer 13/32/2011 9352       35.33
+```
+
+Who is our last entry in ``$Employees`` now?
 
 ```
 $Employees[-1]
@@ -166,4 +176,6 @@ Name         HireDate              EmployeeId  Rate
 Park, Ashley 10/9/2010 12:00:00 AM       5724 38.32
 ```
 
-With some nicer logging, we could have imported the data, transformed it into valid data types, and then reported to our data provider any erroneous input. Whether Elmer's data was fat-fingered or the file compromised, Powershell caught the error and it can be dealth with.
+With some nicer logging, we could have imported the data, transformed it into valid data types, and then reported to our data provider any erroneous input. Another option for the ``catch`` would be to assign his ``HireDate`` the value ``$null``.
+
+Whether Elmer's data was fat-fingered or the file compromised, Powershell caught the error and it can be dealth with.
