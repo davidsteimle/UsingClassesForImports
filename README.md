@@ -1,12 +1,14 @@
 # Using Classes to Improve Data Import Functionality
 
-Very often, we are given data in formats which can be imported into Powershell, but its usefullness as a object is lost in the procedure. Some of the most common ways we receive data are:
+Very often, we are given data in formats which can be imported into Powershell, but its usefullness as a object is lost in the procedure. Using custom classes will turn this formless string data into useful objects.
+
+Some of the most common ways we receive data are:
 
 * __Comma Seperated Value__ (CSV) files. Often as the output of an application, or provided by another deleloper.
 * __JavaScript Object Notation__ (JSON) file or stream. Possibly provided by an Application Program Interface (API) or ``Invoke-WebRequest`` call.
 * Spreadsheet. This data source, in this example, will be converted to CSV.
 
-**There are two attached data files, ``emp_data_example.csv`` and ``emp_data_example.json`` for use with this tutorial. All values are randomly generated, including the names.**
+**There are two attached data files, ``emp_data_example.csv`` and ``emp_data_example.json`` for use with this tutorial. All values are randomly generated, including the names. These records do not, to the best of my knowledge, represent real people or factual PII.**
 
 Powershell handles CSV and JSON nicely:
 
@@ -35,7 +37,14 @@ Tyler, Kenny      08/03/2018 5953       33.65
 Hunter, Constance 02/05/2011 7939       25.73
 ```
 
-Awesome, we are done, right? What if we want to work with this data? How long has Delia Diaz worked here? Let's find out:
+Awesome, we are done, right? What if we want to perform calculations with this data? For example, how long has Delia Diaz worked here? Let's find out:
+
+```
+$ImportedCsv[0]
+Name        HireDate   EmployeeId Rate
+----        --------   ---------- ----
+Diaz, Delia 10/05/2016 8551       26.29
+```
 
 ```powershell
 $(Get-Date) - $ImportedCsv[0].HireDate
@@ -62,7 +71,7 @@ IsPublic IsSerial Name    BaseType
 True     True     String  System.Object
 ```
 
-Naturally, we could convert this value easily by piping the string value through ``Get-Date`` when we do this calculation, but Powershell is better than that. Let's define our objects with appropriate data types, with a ``class``:
+Naturally, we could convert this value easily by piping the string value through ``Get-Date`` when we do this calculation, but Powershell is better than that. Let's define our objects with appropriate data types with a ``class``:
 
 ```powershell
 class employee {
@@ -112,7 +121,7 @@ Or...
 [math]::Round($(($(Get-Date) - $Example.HireDate).TotalDays / 365),2)
 ```
 
-That's 3.26 years since Delia's start date. Now that it is a ``datetime`` object, we can do all the date or time calculations we want, such as determining an anniversary, figuring out leave accrual rate, or reformatting the date to fit a database query with a defined ``datetime`` structure.
+That's 3.26 years since Delia's start date. Now that it is a ``datetime`` object we can do all the date or time calculations we want, such as determining an anniversary, figuring out leave accrual rate, or reformatting the date to fit a database query with a defined ``datetime`` structure.
 
 But what about our other employees? There are 100 of them in our CSV and JSON files.
 
