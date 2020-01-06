@@ -1,0 +1,602 @@
+[
+    {
+        "Name":  "Diaz, Delia",
+        "HireDate":  "10/05/2016",
+        "EmployeeId":  "8551",
+        "Rate":  "26.29"
+    },
+    {
+        "Name":  "Maxwell, Oscar",
+        "HireDate":  "12/27/2016",
+        "EmployeeId":  "6901",
+        "Rate":  "20.27"
+    },
+    {
+        "Name":  "Henderson, Denise",
+        "HireDate":  "04/10/2017",
+        "EmployeeId":  "5160",
+        "Rate":  "24.93"
+    },
+    {
+        "Name":  "Tyler, Kenny",
+        "HireDate":  "08/03/2018",
+        "EmployeeId":  "5953",
+        "Rate":  "33.65"
+    },
+    {
+        "Name":  "Hunter, Constance",
+        "HireDate":  "02/05/2011",
+        "EmployeeId":  "7939",
+        "Rate":  "25.73"
+    },
+    {
+        "Name":  "Peterson, Carl",
+        "HireDate":  "01/16/2018",
+        "EmployeeId":  "5731",
+        "Rate":  "31.67"
+    },
+    {
+        "Name":  "White, Johnnie",
+        "HireDate":  "07/04/2012",
+        "EmployeeId":  "6430",
+        "Rate":  "31.15"
+    },
+    {
+        "Name":  "Adams, Julius",
+        "HireDate":  "03/04/2014",
+        "EmployeeId":  "6356",
+        "Rate":  "33.42"
+    },
+    {
+        "Name":  "West, Harold",
+        "HireDate":  "12/15/2016",
+        "EmployeeId":  "8947",
+        "Rate":  "35.18"
+    },
+    {
+        "Name":  "Hogan, Stewart",
+        "HireDate":  "04/22/2019",
+        "EmployeeId":  "9507",
+        "Rate":  "29.37"
+    },
+    {
+        "Name":  "Harvey, Kendra",
+        "HireDate":  "08/02/2019",
+        "EmployeeId":  "8425",
+        "Rate":  "30.09"
+    },
+    {
+        "Name":  "Carpenter, Sheryl",
+        "HireDate":  "11/21/2019",
+        "EmployeeId":  "6736",
+        "Rate":  "39.53"
+    },
+    {
+        "Name":  "Andrews, Linda",
+        "HireDate":  "08/27/2018",
+        "EmployeeId":  "5248",
+        "Rate":  "39.59"
+    },
+    {
+        "Name":  "Lucas, Ian",
+        "HireDate":  "01/10/2014",
+        "EmployeeId":  "6487",
+        "Rate":  "39.63"
+    },
+    {
+        "Name":  "Russell, Luke",
+        "HireDate":  "10/12/2018",
+        "EmployeeId":  "7746",
+        "Rate":  "28.56"
+    },
+    {
+        "Name":  "Frank, Brenda",
+        "HireDate":  "01/15/2018",
+        "EmployeeId":  "7239",
+        "Rate":  "23.02"
+    },
+    {
+        "Name":  "Kim, Christine",
+        "HireDate":  "09/24/2010",
+        "EmployeeId":  "5811",
+        "Rate":  "31.52"
+    },
+    {
+        "Name":  "Roberson, Adrienne",
+        "HireDate":  "03/30/2013",
+        "EmployeeId":  "5898",
+        "Rate":  "20.88"
+    },
+    {
+        "Name":  "Hernandez, Kelly",
+        "HireDate":  "06/12/2016",
+        "EmployeeId":  "5374",
+        "Rate":  "29.96"
+    },
+    {
+        "Name":  "Tucker, Eva",
+        "HireDate":  "06/25/2012",
+        "EmployeeId":  "5377",
+        "Rate":  "38.36"
+    },
+    {
+        "Name":  "Caldwell, Maryann",
+        "HireDate":  "05/04/2012",
+        "EmployeeId":  "8664",
+        "Rate":  "30.19"
+    },
+    {
+        "Name":  "Hawkins, Jodi",
+        "HireDate":  "05/10/2014",
+        "EmployeeId":  "7571",
+        "Rate":  "22.22"
+    },
+    {
+        "Name":  "Wilson, Eileen",
+        "HireDate":  "10/24/2017",
+        "EmployeeId":  "5896",
+        "Rate":  "37.19"
+    },
+    {
+        "Name":  "Mendez, Lydia",
+        "HireDate":  "03/30/2017",
+        "EmployeeId":  "6169",
+        "Rate":  "24.03"
+    },
+    {
+        "Name":  "Mcbride, Jay",
+        "HireDate":  "12/05/2011",
+        "EmployeeId":  "7958",
+        "Rate":  "28.41"
+    },
+    {
+        "Name":  "Marsh, Gregory",
+        "HireDate":  "12/30/2011",
+        "EmployeeId":  "5050",
+        "Rate":  "34"
+    },
+    {
+        "Name":  "Walton, Nicolas",
+        "HireDate":  "03/20/2018",
+        "EmployeeId":  "7648",
+        "Rate":  "35.24"
+    },
+    {
+        "Name":  "Parker, Karen",
+        "HireDate":  "07/26/2014",
+        "EmployeeId":  "9401",
+        "Rate":  "37.32"
+    },
+    {
+        "Name":  "Clarke, Lauren",
+        "HireDate":  "06/02/2019",
+        "EmployeeId":  "7599",
+        "Rate":  "39.07"
+    },
+    {
+        "Name":  "Roberts, Hattie",
+        "HireDate":  "09/12/2014",
+        "EmployeeId":  "9086",
+        "Rate":  "27.93"
+    },
+    {
+        "Name":  "Arnold, Tracy",
+        "HireDate":  "08/23/2013",
+        "EmployeeId":  "6322",
+        "Rate":  "34.34"
+    },
+    {
+        "Name":  "Cannon, Jermaine",
+        "HireDate":  "07/05/2017",
+        "EmployeeId":  "5139",
+        "Rate":  "30.03"
+    },
+    {
+        "Name":  "Robbins, Elena",
+        "HireDate":  "07/06/2016",
+        "EmployeeId":  "5323",
+        "Rate":  "39.05"
+    },
+    {
+        "Name":  "Guzman, Yvonne",
+        "HireDate":  "08/22/2017",
+        "EmployeeId":  "8276",
+        "Rate":  "32.9"
+    },
+    {
+        "Name":  "Ortiz, Clay",
+        "HireDate":  "02/06/2011",
+        "EmployeeId":  "7062",
+        "Rate":  "30.91"
+    },
+    {
+        "Name":  "Flores, Leslie",
+        "HireDate":  "03/08/2014",
+        "EmployeeId":  "8733",
+        "Rate":  "24.01"
+    },
+    {
+        "Name":  "Brooks, Doris",
+        "HireDate":  "10/20/2011",
+        "EmployeeId":  "8473",
+        "Rate":  "24.17"
+    },
+    {
+        "Name":  "Lane, Tina",
+        "HireDate":  "06/22/2019",
+        "EmployeeId":  "9234",
+        "Rate":  "31.71"
+    },
+    {
+        "Name":  "Jimenez, Gilbert",
+        "HireDate":  "08/30/2017",
+        "EmployeeId":  "7174",
+        "Rate":  "39.17"
+    },
+    {
+        "Name":  "Gibbs, Horace",
+        "HireDate":  "08/16/2013",
+        "EmployeeId":  "8380",
+        "Rate":  "34.17"
+    },
+    {
+        "Name":  "Collier, Randy",
+        "HireDate":  "08/04/2019",
+        "EmployeeId":  "7216",
+        "Rate":  "21.99"
+    },
+    {
+        "Name":  "Hampton, Alicia",
+        "HireDate":  "07/02/2010",
+        "EmployeeId":  "9341",
+        "Rate":  "29.06"
+    },
+    {
+        "Name":  "Jordan, Mattie",
+        "HireDate":  "10/31/2015",
+        "EmployeeId":  "8725",
+        "Rate":  "33.01"
+    },
+    {
+        "Name":  "Garrett, Rhonda",
+        "HireDate":  "12/15/2014",
+        "EmployeeId":  "7201",
+        "Rate":  "30.47"
+    },
+    {
+        "Name":  "Greene, Bobbie",
+        "HireDate":  "10/19/2013",
+        "EmployeeId":  "5097",
+        "Rate":  "24.47"
+    },
+    {
+        "Name":  "Wright, Sonia",
+        "HireDate":  "02/24/2013",
+        "EmployeeId":  "6025",
+        "Rate":  "28.31"
+    },
+    {
+        "Name":  "Barrett, Guadalupe",
+        "HireDate":  "02/24/2010",
+        "EmployeeId":  "5414",
+        "Rate":  "36.03"
+    },
+    {
+        "Name":  "Pierce, Bridget",
+        "HireDate":  "10/26/2019",
+        "EmployeeId":  "9237",
+        "Rate":  "39.97"
+    },
+    {
+        "Name":  "Hart, Melissa",
+        "HireDate":  "07/10/2017",
+        "EmployeeId":  "7503",
+        "Rate":  "22.27"
+    },
+    {
+        "Name":  "Garcia, Margarita",
+        "HireDate":  "12/24/2014",
+        "EmployeeId":  "8105",
+        "Rate":  "33.66"
+    },
+    {
+        "Name":  "Richards, Kelley",
+        "HireDate":  "08/31/2016",
+        "EmployeeId":  "5354",
+        "Rate":  "35.31"
+    },
+    {
+        "Name":  "Stephens, Johnnie",
+        "HireDate":  "06/23/2012",
+        "EmployeeId":  "7537",
+        "Rate":  "27.57"
+    },
+    {
+        "Name":  "Smith, Julia",
+        "HireDate":  "12/09/2017",
+        "EmployeeId":  "8791",
+        "Rate":  "28.44"
+    },
+    {
+        "Name":  "Day, Tonya",
+        "HireDate":  "06/06/2019",
+        "EmployeeId":  "6468",
+        "Rate":  "30.87"
+    },
+    {
+        "Name":  "Taylor, Krista",
+        "HireDate":  "10/25/2018",
+        "EmployeeId":  "7840",
+        "Rate":  "23.02"
+    },
+    {
+        "Name":  "Rodgers, Kate",
+        "HireDate":  "12/23/2013",
+        "EmployeeId":  "8685",
+        "Rate":  "29.17"
+    },
+    {
+        "Name":  "Fuller, Carlton",
+        "HireDate":  "09/17/2017",
+        "EmployeeId":  "5685",
+        "Rate":  "26.63"
+    },
+    {
+        "Name":  "Cortez, Erick",
+        "HireDate":  "05/18/2015",
+        "EmployeeId":  "6053",
+        "Rate":  "35.75"
+    },
+    {
+        "Name":  "Allison, Lyle",
+        "HireDate":  "02/24/2014",
+        "EmployeeId":  "7144",
+        "Rate":  "24.63"
+    },
+    {
+        "Name":  "Burgess, Salvatore",
+        "HireDate":  "09/14/2017",
+        "EmployeeId":  "7427",
+        "Rate":  "32.61"
+    },
+    {
+        "Name":  "Wheeler, Malcolm",
+        "HireDate":  "12/13/2019",
+        "EmployeeId":  "6738",
+        "Rate":  "25.95"
+    },
+    {
+        "Name":  "Craig, Eric",
+        "HireDate":  "05/11/2011",
+        "EmployeeId":  "5734",
+        "Rate":  "31.62"
+    },
+    {
+        "Name":  "Cross, Andres",
+        "HireDate":  "06/28/2012",
+        "EmployeeId":  "5304",
+        "Rate":  "28.45"
+    },
+    {
+        "Name":  "Weber, Rene",
+        "HireDate":  "07/23/2015",
+        "EmployeeId":  "5594",
+        "Rate":  "28.45"
+    },
+    {
+        "Name":  "Black, Otis",
+        "HireDate":  "09/18/2011",
+        "EmployeeId":  "7688",
+        "Rate":  "35.71"
+    },
+    {
+        "Name":  "Luna, Maurice",
+        "HireDate":  "05/08/2012",
+        "EmployeeId":  "7507",
+        "Rate":  "39.65"
+    },
+    {
+        "Name":  "Higgins, Alex",
+        "HireDate":  "07/30/2010",
+        "EmployeeId":  "6429",
+        "Rate":  "22.41"
+    },
+    {
+        "Name":  "Stevens, Tanya",
+        "HireDate":  "03/25/2014",
+        "EmployeeId":  "6556",
+        "Rate":  "29.76"
+    },
+    {
+        "Name":  "Peters, Cassandra",
+        "HireDate":  "04/18/2019",
+        "EmployeeId":  "8551",
+        "Rate":  "33.05"
+    },
+    {
+        "Name":  "Sandoval, Jo",
+        "HireDate":  "10/13/2016",
+        "EmployeeId":  "7712",
+        "Rate":  "25.69"
+    },
+    {
+        "Name":  "Shaw, Carolyn",
+        "HireDate":  "02/05/2012",
+        "EmployeeId":  "7577",
+        "Rate":  "40.07"
+    },
+    {
+        "Name":  "Evans, Bennie",
+        "HireDate":  "01/01/2017",
+        "EmployeeId":  "8107",
+        "Rate":  "25.42"
+    },
+    {
+        "Name":  "Hall, Leland",
+        "HireDate":  "10/24/2013",
+        "EmployeeId":  "5442",
+        "Rate":  "22.39"
+    },
+    {
+        "Name":  "Bass, Rudolph",
+        "HireDate":  "12/01/2018",
+        "EmployeeId":  "9556",
+        "Rate":  "34.31"
+    },
+    {
+        "Name":  "French, Angela",
+        "HireDate":  "02/19/2019",
+        "EmployeeId":  "7870",
+        "Rate":  "29.56"
+    },
+    {
+        "Name":  "Harrington, Trevor",
+        "HireDate":  "11/09/2016",
+        "EmployeeId":  "9736",
+        "Rate":  "24.19"
+    },
+    {
+        "Name":  "Gilbert, Johnathan",
+        "HireDate":  "05/17/2013",
+        "EmployeeId":  "7967",
+        "Rate":  "27.28"
+    },
+    {
+        "Name":  "Daniel, Hector",
+        "HireDate":  "05/16/2018",
+        "EmployeeId":  "9325",
+        "Rate":  "33.97"
+    },
+    {
+        "Name":  "Harmon, Darla",
+        "HireDate":  "12/28/2010",
+        "EmployeeId":  "7201",
+        "Rate":  "32.54"
+    },
+    {
+        "Name":  "Johnson, Clifford",
+        "HireDate":  "10/24/2012",
+        "EmployeeId":  "9990",
+        "Rate":  "31.97"
+    },
+    {
+        "Name":  "Baker, Renee",
+        "HireDate":  "03/23/2014",
+        "EmployeeId":  "7111",
+        "Rate":  "35.84"
+    },
+    {
+        "Name":  "Fleming, Colin",
+        "HireDate":  "03/27/2017",
+        "EmployeeId":  "9729",
+        "Rate":  "26.98"
+    },
+    {
+        "Name":  "Gregory, Rodolfo",
+        "HireDate":  "05/14/2018",
+        "EmployeeId":  "7701",
+        "Rate":  "30.66"
+    },
+    {
+        "Name":  "Strickland, Deanna",
+        "HireDate":  "09/25/2010",
+        "EmployeeId":  "9882",
+        "Rate":  "27.18"
+    },
+    {
+        "Name":  "Salazar, Gwendolyn",
+        "HireDate":  "12/12/2014",
+        "EmployeeId":  "9396",
+        "Rate":  "29.17"
+    },
+    {
+        "Name":  "Mitchell, Susan",
+        "HireDate":  "03/17/2019",
+        "EmployeeId":  "5785",
+        "Rate":  "22.44"
+    },
+    {
+        "Name":  "Zimmerman, Alfredo",
+        "HireDate":  "01/18/2014",
+        "EmployeeId":  "6875",
+        "Rate":  "28.12"
+    },
+    {
+        "Name":  "Garner, Kara",
+        "HireDate":  "07/25/2017",
+        "EmployeeId":  "9114",
+        "Rate":  "36.38"
+    },
+    {
+        "Name":  "Allen, Lindsay",
+        "HireDate":  "09/10/2013",
+        "EmployeeId":  "6747",
+        "Rate":  "23.15"
+    },
+    {
+        "Name":  "Morton, Mona",
+        "HireDate":  "09/14/2010",
+        "EmployeeId":  "6705",
+        "Rate":  "32.53"
+    },
+    {
+        "Name":  "Simpson, Kristopher",
+        "HireDate":  "09/08/2014",
+        "EmployeeId":  "6783",
+        "Rate":  "37.12"
+    },
+    {
+        "Name":  "Ramirez, Daisy",
+        "HireDate":  "02/11/2014",
+        "EmployeeId":  "6443",
+        "Rate":  "36.68"
+    },
+    {
+        "Name":  "Estrada, Ethel",
+        "HireDate":  "06/10/2010",
+        "EmployeeId":  "6322",
+        "Rate":  "35.56"
+    },
+    {
+        "Name":  "Schmidt, Cedric",
+        "HireDate":  "06/13/2018",
+        "EmployeeId":  "9184",
+        "Rate":  "27.56"
+    },
+    {
+        "Name":  "Morrison, Santos",
+        "HireDate":  "09/14/2010",
+        "EmployeeId":  "6812",
+        "Rate":  "23.8"
+    },
+    {
+        "Name":  "Mack, Guy",
+        "HireDate":  "07/17/2014",
+        "EmployeeId":  "8572",
+        "Rate":  "20.73"
+    },
+    {
+        "Name":  "Ball, Brent",
+        "HireDate":  "05/25/2018",
+        "EmployeeId":  "8401",
+        "Rate":  "28.13"
+    },
+    {
+        "Name":  "Griffin, Lula",
+        "HireDate":  "07/10/2018",
+        "EmployeeId":  "6806",
+        "Rate":  "26.53"
+    },
+    {
+        "Name":  "Park, Ashley",
+        "HireDate":  "10/09/2010",
+        "EmployeeId":  "5724",
+        "Rate":  "38.32"
+    },
+    {
+        "Name":  "Buchanan, Elmer",
+        "HireDate":  "06/20/2011",
+        "EmployeeId":  "9352",
+        "Rate":  "35.33"
+    }
+]
