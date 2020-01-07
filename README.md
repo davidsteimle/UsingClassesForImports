@@ -147,7 +147,7 @@ $ImportedCsv = Get-Content .\emp_data_example.csv | ConvertFrom-Csv
 Next, we need to create a new Array List:
 
 ```powershell
-[System.Collections.ArrayList]$Employees = @()
+$Employees = New-Object -TypeName System.Collections.ArrayList
 ```
 
 Then we will loop through ``$ImportedCsv``:
