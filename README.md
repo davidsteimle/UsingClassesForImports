@@ -37,7 +37,7 @@ Tyler, Kenny      08/03/2018 5953       33.65
 Hunter, Constance 02/05/2011 7939       25.73
 ```
 
-| Column Name | Data Type |
+| Column Name | Perceived Data Type |
 | ----------- | --------- |
 | Name        | String    |
 | HireDate    | Date      |
@@ -78,7 +78,13 @@ IsPublic IsSerial Name    BaseType
 True     True     String  System.Object
 ```
 
-Naturally, we could convert this value easily by piping the string value through ``Get-Date`` when we do this calculation, but Powershell is better than that. Let's define our objects with appropriate data types with a ``class``:
+We could always cast our variable as a ``datetime`` type:
+
+```powershell
+$(Get-Date) - [datetime]$ImportedCsv[0].HireDate
+```
+
+That, however, means that anytime we use ``HireDate`` we need to cast it as ``datetime``. It would be better to have it always as date/time. All of our values should be cast as their appropriate types, so let's define our objects with a ``class``:
 
 ```powershell
 class employee {
@@ -89,10 +95,10 @@ class employee {
 }
 ```
 
-Now, let's create a variable with Delia Diaz's information, cast as ``employee``:
+Then, let's create a variable with Delia Diaz's information, cast as ``employee``:
 
 ```powershell
-$Example = [employee]$($ImportedCsv[0])
+[employee]$Example = $($ImportedCsv[0])
 $Example.HireDate.GetType()
 ```
 
@@ -160,7 +166,9 @@ $ImportedCsv.ForEach({
 Notice the ``try``/``catch`` pair? That is to help us with our data. Running the above code will produce the following results:
 
 ```
-Unable to add Cannot convert value "@{Name=Buchanan, Elmer; HireDate=13/32/2011; EmployeeId=9352; Rate=35.33}" to type "employee". Error: "Cannot convert value "13/32/2011" to type "System.DateTime". Error: "String was not recognized as a valid DateTime.""
+Unable to add Cannot convert value "@{Name=Buchanan, Elmer; HireDate=13/32/2011; EmployeeId=9352; 
+    Rate=35.33}" to type "employee". Error: "Cannot convert value "13/32/2011" to type "System.DateTime". 
+    Error: "String was not recognized as a valid DateTime.""
 ```
 
 Elmer Buchanan is the final entry in our CSV. His hire date is 13/32/2011. That is an invalid date format. His data is in ``$ImportedCsv``:
