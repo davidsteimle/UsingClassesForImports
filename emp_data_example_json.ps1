@@ -9,7 +9,7 @@ class employee {
 
 $ImportedJson = Get-Content .\emp_data_example.json | ConvertFrom-Json
 
-[System.Collections.ArrayList]$Employees = @()
+$Employees = New-Object -TypeName System.Collections.ArrayList
 
 $ImportedJson.ForEach({
     try{
