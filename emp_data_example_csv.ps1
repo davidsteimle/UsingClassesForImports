@@ -9,7 +9,7 @@ class employee {
 
 $ImportedCsv = Get-Content .\emp_data_example.csv | ConvertFrom-Csv
 
-[System.Collections.ArrayList]$Employees = @()
+$Employees = New-Object -TypeName System.Collections.ArrayList
 
 $ImportedCsv.ForEach({
     try{
