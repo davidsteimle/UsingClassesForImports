@@ -4,11 +4,11 @@ Very often, we are given data in formats which can be imported into Powershell, 
 
 Some of the most common ways we receive data are:
 
-* __Comma Seperated Value__ (CSV) files. Often as the output of an application, or provided by another deleloper.
-* __JavaScript Object Notation__ (JSON) file or stream. Possibly provided by an Application Program Interface (API) or ``Invoke-WebRequest`` call.
-* Spreadsheet. This data source, in this example, will be converted to CSV.
+* __Comma Seperated Value__ (CSV files) -- often as the output of an application, or provided by another deleloper.
+* __JavaScript Object Notation__ (JSON file or stream) -- possibly provided by an Application Program Interface (API) or ``Invoke-WebRequest`` call.
+* Spreadsheets. This data source, in this example, will be converted to CSV.
 
-**There are two attached data files, ``emp_data_example.csv`` and ``emp_data_example.json`` for use with this tutorial. All values are randomly generated, including the names. These records do not, to the best of my knowledge, represent real people or factual PII.**
+**There are two attached data files, ``emp_data_example.csv`` and ``emp_data_example.json`` for use with this tutorial. All values are randomly generated, including the names. These records do not, to the best of my knowledge, represent real people or factual Personally Identifiable Information (PII).**
 
 Powershell handles CSV and JSON nicely:
 
@@ -36,6 +36,13 @@ Henderson, Denise 04/10/2017 5160       24.93
 Tyler, Kenny      08/03/2018 5953       33.65
 Hunter, Constance 02/05/2011 7939       25.73
 ```
+
+| Column Name | Data Type |
+| ----------- | --------- |
+| Name        | String    |
+| HireDate    | Date      |
+| Employee ID | Integer   |
+| Rate        | Decimal   |
 
 Awesome, we are done, right? What if we want to perform calculations with this data? For example, how long has Delia Diaz worked here? Let's find out:
 
