@@ -1,0 +1,479 @@
+[
+    {
+        "Title":  "David Bowie",
+        "Released":  "1-jun-1967",
+        "Label":  "Deram",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  "Uncle Arthur"
+            },
+            {
+                "Number":  2,
+                "Title":  "Sell Me a Coat"
+            },
+            {
+                "Number":  3,
+                "Title":  "Rubber Band"
+            },
+            {
+                "Number":  4,
+                "Title":  "Love You till Tuesday"
+            },
+            {
+                "Number":  5,
+                "Title":  "There Is a Happy Land"
+            },
+            {
+                "Number":  6,
+                "Title":  "We Are Hungry Men"
+            },
+            {
+                "Number":  7,
+                "Title":  "When I Live My Dream"
+            },
+            {
+                "Number":  8,
+                "Title":  "Little Bobardier"
+            },
+            {
+                "Number":  9,
+                "Title":  "Silly Boy Blue"
+            },
+            {
+                "Number":  10,
+                "Title":  "Come and Buy Me Toys"
+            },
+            {
+                "Number":  11,
+                "Title":  "Join the Gang"
+            },
+            {
+                "Number":  12,
+                "Title":  "She's Got Medals"
+            },
+            {
+                "Number":  13,
+                "Title":  "Maid of Bond Street"
+            },
+            {
+                "Number":  14,
+                "Title":  "Please Mr. Gravedigger"
+            }
+        ]
+    },
+    {
+        "Title":  "Space Oddity",
+        "Released":  "14-nov-1969",
+        "Label":  "Philips/Mercury",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  "Space Oddity"
+            },
+            {
+                "Number":  2,
+                "Title":  "Unwashed and Somewhat Slightly Dazed"
+            },
+            {
+                "Number":  3,
+                "Title":  "Letter to Hermione"
+            },
+            {
+                "Number":  4,
+                "Title":  "Cygnet Committee"
+            },
+            {
+                "Number":  5,
+                "Title":  "Janine"
+            },
+            {
+                "Number":  6,
+                "Title":  "An Occasional Dream"
+            },
+            {
+                "Number":  7,
+                "Title":  "Wild Eyed Boy from Freecloud"
+            },
+            {
+                "Number":  8,
+                "Title":  "God Knows I'm Good"
+            },
+            {
+                "Number":  9,
+                "Title":  "Memory of a Free Festival"
+            }
+        ]
+    },
+    {
+        "Title":  "Man Who Sold the World, The",
+        "Released":  "4-nov-1970",
+        "Label":  "Mercury",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  "The Width of a Circle"
+            },
+            {
+                "Number":  2,
+                "Title":  "All the Madmen"
+            },
+            {
+                "Number":  3,
+                "Title":  "Black Country Rock"
+            },
+            {
+                "Number":  4,
+                "Title":  "After All"
+            },
+            {
+                "Number":  5,
+                "Title":  "Running Gun Blues"
+            },
+            {
+                "Number":  6,
+                "Title":  "Saviour Machine"
+            },
+            {
+                "Number":  7,
+                "Title":  "She Shook Me Cold"
+            },
+            {
+                "Number":  8,
+                "Title":  "The Man Who Sold the World"
+            },
+            {
+                "Number":  9,
+                "Title":  "The Supermen"
+            }
+        ]
+    },
+    {
+        "Title":  "Hunky Dory",
+        "Released":  "17-dec-1971",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  "Changes"
+            },
+            {
+                "Number":  2,
+                "Title":  "Oh! You Pretty Things"
+            },
+            {
+                "Number":  3,
+                "Title":  "Eight Line Poem"
+            },
+            {
+                "Number":  4,
+                "Title":  "Life on Mars?"
+            },
+            {
+                "Number":  5,
+                "Title":  "Kooks"
+            },
+            {
+                "Number":  6,
+                "Title":  "Quicksand"
+            },
+            {
+                "Number":  7,
+                "Title":  "Fill Your Heart"
+            },
+            {
+                "Number":  8,
+                "Title":  "Andy Warhol"
+            },
+            {
+                "Number":  9,
+                "Title":  "Song for Bob Dylan"
+            },
+            {
+                "Number":  10,
+                "Title":  "Queen Bitch"
+            },
+            {
+                "Number":  11,
+                "Title":  "The Bewlay Brothers"
+            }
+        ]
+    },
+    {
+        "Title":  "Rise and Fall of Ziggy Stardust and the Spiders from Mars, The",
+        "Released":  "16-jun-1972",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Aladdin Sane",
+        "Released":  "13-apr-1973",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Pin Ups",
+        "Released":  "19-oct-1973",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Diamond Dogs",
+        "Released":  "24-may-1974",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Young Americans",
+        "Released":  "7-mar-1975",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Station to Station",
+        "Released":  "23-jan-1976",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Low",
+        "Released":  "14-jan-1977",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "\u0022Heroes\u0022",
+        "Released":  "14-oct-1977",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Lodger",
+        "Released":  "18-may-1979",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Scary Monsters.....and Super Creeps",
+        "Released":  "12-sep-1980",
+        "Label":  "RCA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Let\u0027s Dance",
+        "Released":  "14-apr-1983",
+        "Label":  "EMI",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Tonight",
+        "Released":  "1-sep-1984",
+        "Label":  "EMI America",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Never Let Me Down",
+        "Released":  "27-apr-1987",
+        "Label":  "EMI America",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Tin Machine",
+        "Released":  "22-may-1989",
+        "Label":  "EMI USA",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Tin Machine II",
+        "Released":  "2-sep-1991",
+        "Label":  "London",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Back Tie White Noise",
+        "Released":  "5-apr-1993",
+        "Label":  "Arista/BMG",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "1. Outside",
+        "Released":  "26-sep-1995",
+        "Label":  "Arista/BMG",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Earthling",
+        "Released":  "3-feb-1997",
+        "Label":  "Arista",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "\u0027hours...\u0027",
+        "Released":  "4-oct-1999",
+        "Label":  "Virgin",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Heathen",
+        "Released":  "11-jun-2002",
+        "Label":  "ISO/Columbia",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Reality",
+        "Released":  "16-sep-2003",
+        "Label":  "ISO/Columbia",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Next Day, The",
+        "Released":  "8-mar-2013",
+        "Label":  "ISO/Columbia",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  ""
+            }
+        ]
+    },
+    {
+        "Title":  "Blackstar",
+        "Released":  "8-jan-2016",
+        "Label":  "ISO/Columbia",
+        "Tracks":  [
+            {
+                "Number":  1,
+                "Title":  "Blackstar"
+            },
+            {
+                "Number":  2,
+                "Title":  "'Tis a Pity She Was a Whore"
+            },
+            {
+                "Number":  3,
+                "Title":  "Lazarus"
+            },
+            {
+                "Number":  4,
+                "Title":  "Sue (Or in a Season of Crime)"
+            },
+            {
+                "Number":  5,
+                "Title":  "Girl Loves Me"
+            },
+            {
+                "Number":  6,
+                "Title":  "Dollar Days"
+            },
+            {
+                "Number":  7,
+                "Title":  "I Can't Give Everything Away"
+            }
+        ]
+    }
+]
